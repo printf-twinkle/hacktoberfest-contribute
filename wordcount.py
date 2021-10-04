@@ -1,5 +1,5 @@
-line = input().split()
-sett = list(set(line))
+file = open("C:\data.txt", "r+")
+data = file.read()
+words = data.split()
 
-for i in sett :
-  print(i, '=' , line.count(i))
+print('Number of words in text file :', len(words))
