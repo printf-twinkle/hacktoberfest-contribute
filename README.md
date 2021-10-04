@@ -3,7 +3,6 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 
 # Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
 
-## As a contributor: 😃
  
 
 ## As a maintainer: 💻
