@@ -11,7 +11,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 3) Look through the ISSUES and find the most suitable one.
 4) You will find FORK tab on top beside UNWATCH and STAR (this will help you in cloning the repo to your own profile).
 5) Add a new file to make the changes or edit the existing files.
-6.)Add you name,github-username,Your Contribution File Name,Institution, as well as your Email Id for future referral.(Must be done in a single PR.)
+6.)Add you name,github-username,Your Contribution File Name,Institution, as well as your Email Id for future referral. (Must be done in a single PR.)
 7) You will find a COMMIT button below, put a suitable message about the change and COMMIT.
 8) Come back to hacktoberfest-contribute repo (from where you initially forked).
 9) Go to PULL REQUESTS tab.
