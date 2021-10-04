@@ -21,7 +21,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 13) Now patiently wait for this PR to get merged.
 14) Keep checking if the owner of the repo has suggested you to make some changed so that it can be merged.
 15) Remember, if the PR is not merged, your submission will not be counted.
-16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
+16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review.
 
 
 ## As a maintainer:
