@@ -1,10 +1,10 @@
-This repository is created to celebrate a month long open source festival, Hacktoberfest, 2021.
+🚀This repository is created to celebrate a month long open source festival, Hacktoberfest, 2021.
 A new issue will be updated every day (or > 1 a day) so be active and contribute.
 
 
-# Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
+# Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!👇👇
 
-## As a contributor:
+## 💎As a contributor🙏:
 
 1) Navigate to [hacktoberfest-contribute](https://github.com/printf-twinkle/hacktoberfest-contribute) repo.
 2) Go to ISSUES tab.
@@ -24,7 +24,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
 
 
-## As a maintainer:
+## 💎As a maintainer:
 
 1) Go to any repo of yours
 2) Issues tab
@@ -33,9 +33,9 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 5) label name:
 
  - hacktoberfest
- - hacktoberfest-accepted
+ - hacktoberfest-accepted💪👍
    
-   *Spelling must be correct and fonts too*
+   ✨*Spelling must be correct and fonts too*✨
 
 6) Check if these two labels got added to the existing labels
 7) Go back to issues tab
