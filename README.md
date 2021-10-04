@@ -2,11 +2,11 @@ This repository is created to celebrate a month long open source festival, Hackt
 A new issue will be updated every day (or > 1 a day) so be active and contribute.
 
 
-Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
+# Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
 
-As a contributor:
+## As a contributor:
 
-1) Navigate to hacktoberfest-contribute repo
+1) Navigate to [hacktoberfest-contribute](https://github.com/printf-twinkle/hacktoberfest-contribute) repo
 2) Go to ISSUES tab
 3) Look through the ISSUES and find the most suitable one
 4) You will find FORK tab on top beside UNWATCH and STAR (this will help you in cloning the repo to your own profile)
@@ -23,7 +23,7 @@ As a contributor:
 15) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
 
 
-As a maintainer:
+## As a maintainer:
 
 1) Go to any repo of yours
 2) Issues tab
@@ -31,10 +31,10 @@ As a maintainer:
 4) New label
 5) label name:
 
-hacktoberfest
-hacktoberfest-accepted
-
-Spelling must be correct and fonts too
+ - hacktoberfest
+ - hacktoberfest-accepted
+   
+   *Spelling must be correct and fonts too*
 
 6) Check if these two labels got added to the existing labels
 7) Go back to issues tab
