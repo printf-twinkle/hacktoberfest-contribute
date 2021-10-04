@@ -20,8 +20,15 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 12) Now patiently wait for this PR to get merged.
 13) Keep checking if the owner of the repo has suggested you to make some changed so that it can be merged.
 14) Remember, if the PR is not merged, your submission will not be counted.
-15) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
+15) Navigate to the official Hacktoberfest by digital ocean website and check your contributions after almost an hour to see that it has been sent for review.
 
+
+**As as Contributor, remember that *Quality is the Key.*** 
+
+  Examples of Low Quality Pull Requests(PRs)-
+   * PRs removing white spaces and fixing typos.
+   * PRs using someone else's branches and commits.
+   * Any PRs that are simply made to increase your PR count.
 
 ## As a maintainer:
 
