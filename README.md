@@ -4,7 +4,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 
 # Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
 
-## As a contributor:
+## As a contributor:-
 
 1) Navigate to [hacktoberfest-contribute](https://github.com/printf-twinkle/hacktoberfest-contribute) repo.
 2) Go to ISSUES tab.
@@ -21,25 +21,25 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 13) Now patiently wait for this PR to get merged.
 14) Keep checking if the owner of the repo has suggested you to make some changed so that it can be merged.
 15) Remember, if the PR is not merged, your submission will not be counted.
-16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
+16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review.
 
 
-## As a maintainer:
+## As a maintainer:-
 
 1) Go to any repo of yours
 2) Issues tab
 3) Labels tab
 4) New label
-5) label name:
+5) label name:-
 
  - hacktoberfest
  - hacktoberfest-accepted
    
    *Spelling must be correct and fonts too*
 
-6) Check if these two labels got added to the existing labels
-7) Go back to issues tab
-8) New issue
-9) Give a title and description
-10) Wait for a pull request to come
-11) Merge it and then the person will successfully complete 1 PR
+6) Check if these two labels got added to the existing labels.
+7) Go back to issues tab.
+8) New issue.
+9) Give a title and description.
+10) Wait for a pull request to come.
+11) Merge it and then the person will successfully complete 1 PR.
