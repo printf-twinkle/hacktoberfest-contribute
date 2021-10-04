@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class prime{
+class prime{
 
     public static void main(String args[]) {
 
@@ -10,7 +10,7 @@ public class prime{
         int i;
 
 
-        System.out.print("Enter a Number you want to check : ");
+        System.out.println("Enter a Number you want to check : ");
         number = scan.nextInt();
 
         for(i=2; i<number; i++)
