@@ -1,33 +1,35 @@
 import java.util.*;
 
-class prime{
-
-    public static void main(String args[]) {
+public class prime
+{
+  public static void main(String args[])
+  {
 
         Scanner scan = new Scanner(System.in);
-        int number;
-        int count=0;
+        int n;
+        int c=0;
         int i;
 
 
         System.out.println("Enter a Number you want to check : ");
         number = scan.nextInt();
-
+        
         for(i=2; i<number; i++)
         {
-            if(number%i == 0)
+            if(n%i==0)
             {
-                count++;
+                c++;
                 break;
             }
         }
-        if(count == 0)
+        if(c==0)
         {
-            System.out.print("This is a prime number");
+            System.out.println("This is a prime number");
         }
         else
         {
-            System.out.print("This is not a prime number");
+            System.out.println("This is not a prime number");
         }
     }
-}
+ }
+    

@@ -1,40 +1,31 @@
-/*A program in c to check if a number is prime or not.*/
+// A program in c to check if a number is prime or not.
 #include <stdio.h>
 
-/*Function declaration*/
-void check(int Number)
+// Function to check for prime
+int isPrime(int num)
 {
-    int i,count=0;
-        for (i = 2; i <= Number/2; i++)
-        {
-            if(Number%i == 0)
-            {
-            count++;
-        	break;
-            }	
-        }
-        if(count == 0 && Number != 1 )
-        {
-           	printf("\n %d is a Prime Number", Number);
-        }
-        else
-        {
-           	printf("\n %d is Not a Prime Number", Number);
-        }
+    for (int i = 2; i < num; ++i)
+    {
+        if (num % i == 0)
+            return 0;
+    }
+    return 1;
 }
 
-
-/*The driver code*/
+// Driver code
 int main(void)
 {
-    int Number; 
+    int num; 
   
-   /*Taking the input from the user*/
-    printf("\nPlease Enter any number to Check for Prime \n");
-    scanf("%d", &Number);
+    // Taking the input from the user
+    printf("Enter a number to check for prime: ");
+    scanf("%d", &num);
  
-    /*Function call*/
-    check(Number);    
+    // Check and print
+    if (isPrime(num))
+        printf("\n%d is a prime number.", num);
+    else
+        printf("\n%d is not a prime number.", num);
           
-  return 0;
+    return 0;
 }
