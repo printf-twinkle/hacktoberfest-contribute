@@ -1,7 +1,6 @@
 This repository is created to celebrate a month long open source festival, Hacktoberfest, 2021.
 A new issue will be updated every day (or > 1 a day) so be active and contribute.
 
-
 # Steps to follow to complete 4 successful PRs to win a t-shirt or plant a tree!
 
 ## As a contributor:
@@ -23,7 +22,6 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 15) Remember, if the PR is not merged, your submission will not be counted.
 16) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
 
-
 ## As a maintainer:
 
 1) Go to any repo of yours
@@ -35,7 +33,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
  - hacktoberfest
  - hacktoberfest-accepted
    
-   *Spelling must be correct and fonts too*
+   *'Spelling must be correct and fonts too'*
 
 6) Check if these two labels got added to the existing labels
 7) Go back to issues tab
