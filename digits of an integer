@@ -1,0 +1,15 @@
+import java.util.*;
+public class digits
+{
+    public static void main()
+    {
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Enter a number");
+        int n=sc.nextInt();
+        String s= String.valueOf(n);
+        for(int i=0;i<s.length();i++)
+        {
+           System.out.println("Digits are "+(s.charAt(i)));
+        }
+    }
+} 
