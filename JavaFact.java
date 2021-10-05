@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JavaHackt {
+public class JavaFact {
 
     public static void main(String[] args) {
 
