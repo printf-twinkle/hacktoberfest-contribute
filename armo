@@ -1,0 +1,19 @@
+class cl
+{
+public static void main(String ar[])
+{
+int i, j ;
+i= 7;
+for(j=2; j<i; j++)
+{
+if(i%j==0)
+{
+break;
+}
+}
+if(j==i)
+System.out.println("prime number");
+else
+System.out.println("not a prime number");
+}
+}
