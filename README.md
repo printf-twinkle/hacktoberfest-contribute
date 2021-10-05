@@ -7,14 +7,8 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 
 ## As a maintainer: 💻
 
-step 1) Go to any repo of yours
-step 2) Issues tab
-step 3) Labels tab
-step 4) New label
-step 5) label name:
+ 
 
  - hacktoberfest
  - hacktoberfest-accepted
-   
-   *'Spelling must be correct and fonts too'*
  
