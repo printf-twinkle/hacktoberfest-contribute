@@ -1,0 +1,10 @@
+first = int(input("Enter first number:"))
+second = int(input("Enter second number:"))
+third = int(input("Enter third number:"))
+
+if first > second and first > third:
+    print("First is Greater than Second and Third")
+elif second > first and second > third:
+    print("Second is Greater than First and Third")
+else:
+    print("Third is Greater than First and Second")
