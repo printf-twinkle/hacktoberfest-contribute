@@ -1,0 +1,34 @@
+//C Program to find roots of quadratic equation
+#include<stdio.h>
+#include<math.h>
+void main()
+{
+	float a,b,c,discriminant,real,imaginary;
+	printf("Enter coefficient of quadratic term :: ");
+	scanf("%f",&a);
+	printf("Enter coefficient of linerar term :: ");
+	scanf("%f",&b);
+	printf("Enter constant term :: ");
+	scanf("%f",&c);
+	discriminant=b*b-4*a*c;
+	if(a==0)
+	{
+		printf("The given coefficients can not be coefficient of quadratic equation\n");
+	}
+	else if(discriminant>0)
+	{
+		printf("The first root of quadratic equation is :: %f\n",(-b+sqrt(discriminant))/(2*a));
+		printf("The second root of quadratic equation is :: %f\n",(-b-sqrt(discriminant))/(2*a));
+	}
+	else if(discriminant==0)
+	{
+		printf("The both root of quadratic equation is :: %f\n",-b/(2*a));
+	}
+	else if(discriminant<0)
+	{
+		real=-b/(2*a);
+		imaginary=sqrt(-discriminant)/(2*a);
+	 printf("The first root of quadratic equation is :: %f+%fi\n",real,imaginary);	
+	 printf("The second root of quadratic equation is :: %f-%fi\n",real,imaginary);	
+	}
+}

@@ -1,0 +1,12 @@
+class factorial_java
+{
+  public static void main ( int n )
+  {
+    int fact=1 , i;
+    for ( i=1 ; i<=n ;i++)
+    {
+      fact = fact*i;
+      }
+      System.out.println(" Factorial of a number is " +fact);
+    }
+}
