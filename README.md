@@ -5,7 +5,7 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
 
  
 
-## As a maintainer: 💻
+## As a maintainer : 💻
 
  
 
